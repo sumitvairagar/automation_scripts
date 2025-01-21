@@ -4,7 +4,6 @@ package-lock.json
 
 # Environment variables and configs
 .env
-config.js
 
 # Logs
 logs/
